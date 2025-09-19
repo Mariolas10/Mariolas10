@@ -3,7 +3,7 @@
 
 
 Here are some ideas to get you started:
-Soy un graduado en Ingenieria en Sistemas Automotrices y aspirante a Analista de Datos, me esfuerzo por entregar un trabajo de calidad que cumpla con los más altos estándares  establecidos, demostrando compromiso, responsabilidad, disciplina y un buen trabajo en equipo que seguramente le ayudaran para cumplir con las metas propuestas por la empresa. 
+Soy un graduado en Ingenieria en Sistemas Automotrices y Analista de Datos Jr, me esfuerzo por entregar un trabajo de calidad que cumpla con los más altos estándares  establecidos, demostrando compromiso, responsabilidad, disciplina y un buen trabajo en equipo que seguramente le ayudaran para cumplir con las metas propuestas por la empresa. 
 
 ## Lenguajes y Herramientas: 
 ![Python](https://img.shields.io/badge/Python%20-%20%23306998?style=for-the-badge&logo=Python&logoColor=%23ffde57)
