@@ -14,7 +14,8 @@ Soy un graduado en Ingenieria en Sistemas Automotrices y Analista de Datos Jr, m
 
 
 ## Puedes encontrame en: 
-[![Contáctame](https://img.shields.io/badge/Contáctame-blue?logo=gmail)](mailto:marioroldanvar10@gmail.com)
+[![Contáctame](https://img.shields.io/badge/Email-Contáctame-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marioroldanvar10@gmail.com?subject=Contacto%20desde%20GitHub)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-roldan-v/)
 
 
